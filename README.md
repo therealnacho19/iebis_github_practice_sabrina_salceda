@@ -12,5 +12,5 @@ Instructions:
 
 ## Add your names below:
 alumn1: Sabrina
-alumn2: XXXXXX
+alumn2: Nacho Salceda
 alumn3: Samuel
